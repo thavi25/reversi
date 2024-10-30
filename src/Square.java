@@ -1,3 +1,4 @@
+// Copyright (c) 2024 Thavindu Wijesena. All rights reserved.
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
