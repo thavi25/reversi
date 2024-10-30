@@ -1,3 +1,4 @@
+// Copyright (c) 2024 Thavindu Wijesena. All rights reserved.
 import java.awt.BorderLayout;
 import java.awt.Font;
 import java.awt.GridLayout;
