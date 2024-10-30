@@ -1,3 +1,4 @@
+// Copyright (c) 2024 Thavindu Wijesena. All rights reserved.
 import java.awt.Color;
 import java.util.ArrayList;
 
@@ -140,7 +141,7 @@ public class Model {
 
         int count = 0;
 
-        //If you find an empty square or the edge of the board then stop – no pieces can be captured in that direction.
+        //If you find an empty square or the edge of the board then stop â€“ no pieces can be captured in that direction.
         //If you find a piece of the opposing colour then continue in that direction and check the next square.
         //If you find a piece of your own colour then stop and capture all of the pieces of the opposing colour
         //          between it and the piece you just played. If no opposing pieces would be captured then you cannot play there.
@@ -177,7 +178,7 @@ public class Model {
         }
 
 
-        //If you find an empty square or the edge of the board then stop – no pieces can be captured in that direction.
+        //If you find an empty square or the edge of the board then stop â€“ no pieces can be captured in that direction.
         //If you find a piece of the opposing colour then continue in that direction and check the next square.
         //If you find a piece of your own colour then stop and capture all of the pieces of the opposing colour
         //          between it and the piece you just played. If no opposing pieces would be captured then you cannot play there.
