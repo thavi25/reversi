@@ -1,4 +1,4 @@
-# Reversi (My Edition)
+# Reversi (Java Edition)
 
 ## How to Play
 
