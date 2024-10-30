@@ -7,7 +7,7 @@ Reversi is a two-player game. Each player selects a color (Black or White) and t
 ### Scenarios
 
 1. **Start of Game**  
-   ![Start of Game](https://github.com/thavi25/reversi/issues/2#issue-2443179827)
+   ![Start of Game](https://github.com/user-attachments/assets/120bb9be-85cc-4481-b683-dfb22d6369d3)
 
 2. **White's First Move**  
    White has flipped one black disc to white.  
