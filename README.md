@@ -7,7 +7,7 @@ Reversi is a two-player game. Each player selects a color (Black or White) and t
 ### Scenarios
 
 1. **Start of Game**  
-   ![Start of Game](https://private-user-images.githubusercontent.com/97638014/354347292-120bb9be-85cc-4481-b683-dfb22d6369d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0NzIyODcsIm5iZiI6MTcyMzQ3MTk4NywicGF0aCI6Ii85NzYzODAxNC8zNTQzNDcyOTItMTIwYmI5YmUtODVjYy00NDgxLWI2ODMtZGZiMjJkNjM2OWQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEyVDE0MTMwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0YjY5MDg1N2NkODhlMzBjNmIzODg1M2I0ZGExZDllZTJjYzU5NDg5ZjQzZjYxMDdmZDkyMDYyYmVlMjYwZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8zkqhOmiMSW7WHm3wlQqJN9vWHSQ5z-jZZMVdjEFIVA)
+   ![Start of Game](https://github.com/thavi25/reversi/issues/2#issue-2443179827)
 
 2. **White's First Move**  
    White has flipped one black disc to white.  
